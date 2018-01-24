@@ -16,7 +16,7 @@ body{ font-family: "times new roman";
 .important{ background-color: Orange; font-size: 22px}
 h1{ color: gray; border: 20 Orange; }
 span{ background-color: yellow}
-div{ border: solid 5px gray;
+div{ border: solid 10px yellow;
      padding: 20px;
 
    }
