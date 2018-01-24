@@ -13,8 +13,8 @@ body{ font-family: "times new roman";
   /* height: 960; */
   margin: 20px auto;
 }
-.important{ background-color: yellow; font-size: 22px}
-h1{ color: red; border: 20 Black; }
+.important{ background-color: Orange; font-size: 22px}
+h1{ color: gray; border: 20 Orange; }
 span{ background-color: yellow}
 div{ border: solid 5px gray;
      padding: 20px;
